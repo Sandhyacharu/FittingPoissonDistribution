@@ -1,4 +1,6 @@
-# Fitting Poisson Distribution
+### EX NO: 02
+### DATE:
+# <p align="center">Fitting Poisson Distribution</p>
 
 ## Aim : 
 
@@ -28,10 +30,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 ## Program
-### Developed by
-### Register Number: 212220230041
-### Name: N Sandhya Charu
 ```python3
+# Developed by
+# Register Number: 212220230041
+# Name: N Sandhya Charu
+
 import numpy as np
 import math
 import scipy.stats
